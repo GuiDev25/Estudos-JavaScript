@@ -1,14 +1,13 @@
-//variaveis
 let nome,idade;
 
 nome = "Guilherme";
 idade = 19;
-//objeto e suas definiçoes
-/*let pessoa = {
+
+let pessoa = {
     nome:"Gui",
     idade:19
 };
-*/
+
 
 // como printar um obj
     //console.log("Sua idade é:"+pessoa.idade);
