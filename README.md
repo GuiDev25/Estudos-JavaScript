@@ -1,2 +1,2 @@
 # Estudos-JavaScript
-Estudos simples sobre JS
+Mini-Projetos em JS
