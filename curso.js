@@ -27,7 +27,6 @@ function maiorDeles(n1,n2){
 
 //maiorDeles(num1,num2);
 
-
 //Mini-Projeto 3 --> FizzBuzz
     //Divisivel por 3 - Fizz
     //Divisivel por 5  - Buzz
