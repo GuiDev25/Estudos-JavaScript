@@ -3,9 +3,6 @@ let a = "vermelho";
 let b = "azul";
 let aux;
 
-//console.log(a);
-//console.log(b);
-
 aux = a;
 a = b;
 b = aux;
